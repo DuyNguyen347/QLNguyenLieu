@@ -1,0 +1,34 @@
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.AssemblyReference.cache
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.SuggestedBindingRedirects.cache
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.Properties.Resources.resources
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.View.DetailForm.resources
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.View.MainForm.resources
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.GenerateResource.cache
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.CoreCompileInputs.cache
+E:\TestThuQLNH\TestThuQLNH\bin\Debug\TestThuQLNH.exe.config
+E:\TestThuQLNH\TestThuQLNH\bin\Debug\TestThuQLNH.exe
+E:\TestThuQLNH\TestThuQLNH\bin\Debug\TestThuQLNH.pdb
+E:\TestThuQLNH\TestThuQLNH\bin\Debug\EntityFramework.dll
+E:\TestThuQLNH\TestThuQLNH\bin\Debug\EntityFramework.SqlServer.dll
+E:\TestThuQLNH\TestThuQLNH\bin\Debug\EntityFramework.xml
+E:\TestThuQLNH\TestThuQLNH\bin\Debug\EntityFramework.SqlServer.xml
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.CopyComplete
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.exe
+E:\TestThuQLNH\TestThuQLNH\obj\Debug\TestThuQLNH.pdb
+E:\TestThuQLNH - Copy\TestThuQLNH\bin\Debug\TestThuQLNH.exe.config
+E:\TestThuQLNH - Copy\TestThuQLNH\bin\Debug\TestThuQLNH.exe
+E:\TestThuQLNH - Copy\TestThuQLNH\bin\Debug\TestThuQLNH.pdb
+E:\TestThuQLNH - Copy\TestThuQLNH\bin\Debug\EntityFramework.dll
+E:\TestThuQLNH - Copy\TestThuQLNH\bin\Debug\EntityFramework.SqlServer.dll
+E:\TestThuQLNH - Copy\TestThuQLNH\bin\Debug\EntityFramework.xml
+E:\TestThuQLNH - Copy\TestThuQLNH\bin\Debug\EntityFramework.SqlServer.xml
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.AssemblyReference.cache
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.SuggestedBindingRedirects.cache
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.Properties.Resources.resources
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.View.DetailForm.resources
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.View.MainForm.resources
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.GenerateResource.cache
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.CoreCompileInputs.cache
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.csproj.CopyComplete
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.exe
+E:\TestThuQLNH - Copy\TestThuQLNH\obj\Debug\TestThuQLNH.pdb
